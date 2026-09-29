@@ -1,0 +1,11 @@
+{
+  "name": "rulegate-action",
+  "private": true,
+  "type": "module",
+  "description": "Published build of the Rulegate check GitHub Action.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayansr26/rulegate.git"
+  }
+}
